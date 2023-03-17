@@ -1,0 +1,33 @@
+#frmCheckPassword {
+                border-top: grey 2px solid;
+                
+                padding: 10px;
+            }
+
+            .demoInputBox {
+                padding: 7px;
+                border: grey 1px solid;
+                border-radius: 4px;
+            }
+
+            #password-strength-status {
+                padding: 5px 10px;
+                color: black;
+                border-radius: 4px;
+                margin-top: 5px;
+            }
+
+            .medium-password {
+                background-color: greenyellow;
+                border: black 1px solid;
+            }
+
+            .weak-password {
+                background-color: lightblue;
+                border: darkred 1px solid;
+            }       
+
+            .strong-password {
+                background-color: RED;
+                border: darkgreen 1px solid;
+            }
